@@ -1,11 +1,11 @@
 {
-  "name": "remax-todo-demo",
+  "name": "my-remax-experimental-environment",
   "private": true,
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "is clean.",
+  "main": "app.js",
   "keywords": [],
-  "author": "Wei Zhu <yesmeck@gmail.com>",
+  "author": "Mingzhi Lai <ramen.curator@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "remax build -t wechat -w",
