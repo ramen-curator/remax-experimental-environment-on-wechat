@@ -1,10 +1,7 @@
-const backgroundColor = '#323239';
-const pages = ['pages/index/index', 'pages/new/index'];
-
 module.exports = {
-  pages,
+  pages: ["pages/index/index"],
   window: {
-    navigationBarTitleText: 'Wechat Todo App',
-    navigationBarBackgroundColor: backgroundColor
-  }
+    navigationBarTitleText: "my demo of wechat_remax",
+    navigationBarBackgroundColor: "#323239",
+  },
 };
