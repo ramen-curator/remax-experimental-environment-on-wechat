@@ -1,19 +1,16 @@
-# Remax Wechat
+# Remax Experimental Environment On Wechat
 
-使用 Remax 开发微信小程序。
+It's cleaner than [the official example](https://github.com/remaxjs/examples). 
+It's cleaner than `npx create-remax-app my-app`
+It's used for wechat quick experiment.
 
 ## Getting Start
-
-安装依赖
 
 ```bash
 npm install
 ```
 
-调试项目
-
 ```bash
-# 执行调试命令
 $ npm run dev
 or
 yarn dev
@@ -21,10 +18,9 @@ yarn dev
 
 使用小程序开发者工具打开项目下的 `dist` 目录
 
-## 构建
+## Build
 
 ```bash
-# 执行构建命令
 $ npm run build
 or
 $ yarn build
