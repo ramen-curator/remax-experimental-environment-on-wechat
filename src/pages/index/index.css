@@ -1,0 +1,22 @@
+.container{
+
+}
+
+.header{
+    background-color: pink;
+    height: 30vh;
+    width: 100%;
+}
+.main{
+    background-color: rgba(255, 255, 0, 0.694);
+    padding: 30rpx;
+}
+.card{
+    background-color: aquamarine;
+    margin-bottom: 30rpx;
+    padding: 30rpx;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
